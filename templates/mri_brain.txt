@@ -1,0 +1,10 @@
+MRI Brain Plain
+
+Patient: [To be filled]
+Date: [To be filled]
+
+Findings:
+The cerebral parenchyma appears normal in signal intensity and morphology. No evidence of acute infarct, hemorrhage, or space-occupying lesion. The ventricular system and cisternal spaces are normal. No midline shift.
+
+Impression:
+Normal MRI Brain Plain.
