@@ -2,3 +2,4 @@ fpdf
 langchain-community
 langchain_groq
 streamlit
+python-dotenv
