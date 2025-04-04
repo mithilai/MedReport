@@ -3,3 +3,4 @@ langchain-community
 langchain_groq
 streamlit
 python-dotenv
+python-docx
